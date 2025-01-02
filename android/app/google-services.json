@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449168111764",
+    "project_id": "robou-b3bce",
+    "storage_bucket": "robou-b3bce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449168111764:android:414b1c03d4e83b57a39c81",
+        "android_client_info": {
+          "package_name": "com.robua.robua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzghmshE4P8sth1rlIgj5GZASizrZfNaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
